@@ -1,3 +1,1 @@
-1) Для установки распакуйте архив в нужную папку.
-2) Для запуска программы достаточно запустить .exe файл.
-3) Все сохраненные данные хронятся в папке Save Danni (SaveVKmessage\SaveVKmessage\bin\Debug).
+This program can help u to downloading audio/photo/document content from vk.com diaolog
